@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE myportfolio PUBLIC "GrossJS" "competency.dtd">
+<myportfolio>
+	<mycompetencies>
+		<competency in="HTML" value="good" />
+		<competency in="CSS" value="a little worse than HTML" />
+		<competency in="PHP" value="studying" />
+		<competency in="JavaScript" value="a little with jQuery" />
+	</mycompetencies>
+
+</myportfolio>
