@@ -1,0 +1,6 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+<!ELEMENT table (student+)>
+<!ELEMENT student (mark+)>
+<!ELEMENT mark (#PCDATA)>
+<!ATTLIST student name CDATA #REQUIRED>
+<!ATTLIST mark discipline CDATA #REQUIRED>

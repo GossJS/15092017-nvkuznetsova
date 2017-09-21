@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE table PUBLIC 'GrossJS' 'students.dtd'>
+
+<table>
+	<student name="Иванов">
+		<mark discipline="Мультимедия">3</mark>
+		<mark discipline="Веб-дизайн">3</mark>
+		<mark discipline="Графика">5</mark>
+	</student>
+	<student name="Петрова">
+		<mark discipline="Мультимедия">3</mark>
+		<mark discipline="Веб-дизайн">4</mark>
+		<mark discipline="Графика">5</mark>
+		<mark discipline="Логика">5</mark>
+	</student>
+	<student name="Сидоренко">
+		<mark discipline="Мультимедия">3</mark>
+		<mark discipline="Веб-дизайн">4</mark>
+		<mark discipline="Графика">5</mark>
+		<mark discipline="Логика">5</mark>
+	</student>
+</table>
