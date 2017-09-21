@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!ELEMENT statistic (mostFrequent?,statPlatform+, mobilePlatform+, ips?)>
+<!ELEMENT mostFrequent (ip?)>
+<!ELEMENT statPlatform (ip+)>
+<!ELEMENT mobilePlatform (ip+)>
+<!ELEMENT ips (ip+)>
+<!ELEMENT ip (#PCDATA)>
+
+<!ATTLIST statPlatform  date CDATA #REQUIRED>
+<!ATTLIST statPlatform  browser CDATA #REQUIRED>
+<!ATTLIST statPlatform  platform (Windows|Linux|MacOS) #REQUIRED>
+<!ATTLIST mobilePlatform date CDATA #REQUIRED>
+<!ATTLIST mobilePlatform  browser CDATA #REQUIRED>
+<!ATTLIST mobilePlatform  platform (Android|IOS|WindiwsPhone) #REQUIRED>
+<!ATTLIST ip addr CDATA #REQUIRED>
+<!ATTLIST ip frequency CDATA #REQUIRED>
