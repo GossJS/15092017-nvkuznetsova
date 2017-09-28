@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE statistic PUBLIC "GrossJS" "statistics.dtd">
+<!DOCTYPE statistic PUBLIC "GossJS" "https://kodaktor.ru/j/dtd_21306">
 <statistic>
 	<mostFrequent>
 		<ip addr="1.1.1.1" frequency="999999"/>
