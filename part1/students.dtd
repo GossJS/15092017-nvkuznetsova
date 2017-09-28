@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='utf-8' ?>
-<!ELEMENT table (student+)>
-<!ELEMENT student (mark+)>
-<!ELEMENT mark (#PCDATA)>
-<!ATTLIST student name CDATA #REQUIRED>
-<!ATTLIST mark discipline CDATA #REQUIRED>
+<!ELEMENT таблица (студент+)>
+<!ELEMENT студент (отметка+)>
+<!ELEMENT отметка (#PCDATA)>
+<!ATTLIST студент имя CDATA #REQUIRED>
+<!ATTLIST отметка дисциплина CDATA #REQUIRED>
