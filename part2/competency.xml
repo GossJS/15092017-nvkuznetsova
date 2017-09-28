@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE myportfolio PUBLIC "GrossJS" "competency.dtd">
+<!DOCTYPE myportfolio PUBLIC "GossJS" "https://kodaktor.ru/j/dtd_f7af6">
 <myportfolio>
 	<mycompetencies>
 		<competency in="HTML" value="good" />
